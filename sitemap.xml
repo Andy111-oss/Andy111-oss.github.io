@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/tags/index.html</loc>
+    <loc>https://andy111-oss.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/box/animation/index.html</loc>
+    <loc>https://andy111-oss.github.io/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/site/census/index.html</loc>
+    <loc>https://andy111-oss.github.io/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -200,6 +200,15 @@
   </url>
   
   <url>
+    <loc>https://andy111-oss.github.io/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://andy111-oss.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -209,16 +218,7 @@
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://andy111-oss.github.io/social/link/index.html</loc>
+    <loc>https://andy111-oss.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/life/games/index.html</loc>
+    <loc>https://andy111-oss.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -270,14 +270,14 @@
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E9%9A%8F%E8%AE%B0/</loc>
+    <loc>https://andy111-oss.github.io/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://andy111-oss.github.io/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <loc>https://andy111-oss.github.io/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E9%9A%8F%E8%AE%B0/</loc>
     <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
