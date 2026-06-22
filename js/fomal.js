@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://tuchuang.voooe.cn/images/2026/05/21/bg-59.webp);
-    --darkmode-bg:url(https://tuchuang.voooe.cn/images/2026/05/21/bg-59.webp);
-    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2026/05/21/bg-59.webp);
-    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2026/05/21/bg-59.webp);
+    --default-bg: url(https://tuchuang.voooe.cn/images/2026/05/22/12.jpg);
+    --darkmode-bg:url(https://tuchuang.voooe.cn/images/2026/05/23/dark.png);
+    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2026/05/23/stitch.png);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2026/05/23/stitchdark.jpg);
   }`;
 }
 // 切换背景主函数
@@ -3407,7 +3407,7 @@ function createWinbox() {
 <h3>1. 蓝色海面</h3>
 <details class="folding-tag" cyan><summary> 查看蓝色海面背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/18c7321b7d510964c3bec5bad2cb2d85.jpg" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/18c7321b7d510964c3bec5bad2cb2d85.jpg" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2026/06/22/18c7321b7d510964c3bec5bad2cb2d85.jpg)')"></a></div>
               </div>
             </details>
 
@@ -3416,7 +3416,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/flower-2.jpg)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/flower-2.jpg)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2026/06/22/flower-2.jpg)')"></a></div>
               </div>
             </details>
 
@@ -3424,7 +3424,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/cat.jpg)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/cat.jpg)" class="imgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2026/06/22/cat.jpg)')"></a></div>
               </div>
             </details>
 
@@ -3448,7 +3448,7 @@ function createWinbox() {
 <h3>6. 适配手机</h3>
 <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/mountain.jpg)" class="pimgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://tuchuang.voooe.cn/images/2026/06/22/mountain.jpg)" class="pimgbox" onclick="changeBg('url(https://tuchuang.voooe.cn/images/2026/06/22/mountain.jpg)')"></a></div>
               </div>
             </details>
 
