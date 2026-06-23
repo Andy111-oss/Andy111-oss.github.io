@@ -5239,7 +5239,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://tuchuang.voooe.cn/images/2026/05/22/12.jpg);
+  background: url(https://tuchuang.voooe.cn/images/2026/05/23/dark.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5247,14 +5247,14 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(https://tuchuang.voooe.cn/images/2026/05/22/12.jpg);
+    background: url(https://tuchuang.voooe.cn/images/2026/05/23/stitch.png);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(https://tuchuang.voooe.cn/images/2026/05/22/12.jpg);
+    background: url(https://tuchuang.voooe.cn/images/2026/05/23/stitchdark.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;

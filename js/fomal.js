@@ -3516,7 +3516,7 @@ function createWinbox() {
 // 恢复默认背景
 function resetBg() {
   localStorage.removeItem('blogbg');
-  reload();
+  location.reload();
 }
 
 // 恢复默认设置并刷新页面
