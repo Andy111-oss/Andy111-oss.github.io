@@ -1119,21 +1119,16 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
+    `欢迎来到Andyの小家!`,
     `Future is now 🍭🍭🍭`,
     `
-        
-███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
-██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-█████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    
-██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
+          
                                               
 `,
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By Fomalhaut",
+    "©2025 By Andy",
   ];
 
   setTimeout(
@@ -3548,4 +3543,12 @@ function toggleWinbox() {
   };
 }
 
+window.toggleWinbox = toggleWinbox;
+window.createWinbox = createWinbox;
+
+document.addEventListener('pjax:complete', ()=>{
+    window.toggleWinbox = toggleWinbox;
+    window.createWinbox = createWinbox;
+    if(localStorage.getItem("blogbg")) setBg(localStorage.getItem("blogbg"));
+})
 /* 美化模块 end */
